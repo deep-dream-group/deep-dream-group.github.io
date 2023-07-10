@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://deep-dream-group.github.io/sitemap.xml
