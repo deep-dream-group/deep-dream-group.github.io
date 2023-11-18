@@ -5,12 +5,20 @@
     <link>https://deep-dream-group.github.io/publication/</link>
       <atom:link href="https://deep-dream-group.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 11:52:52 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Nov 2023 17:34:24 +0100</lastBuildDate>
     <image>
       <url>https://deep-dream-group.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://deep-dream-group.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Explainable Bengali News Classification</title>
+      <link>https://deep-dream-group.github.io/publication/explainable-bengali-news/</link>
+      <pubDate>Tue, 14 Nov 2023 17:34:24 +0100</pubDate>
+      <guid>https://deep-dream-group.github.io/publication/explainable-bengali-news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explainable and Fair Data Generation</title>
@@ -25,14 +33,6 @@
       <link>https://deep-dream-group.github.io/publication/explainable-audio-classification/</link>
       <pubDate>Mon, 10 Jul 2023 11:52:32 +0200</pubDate>
       <guid>https://deep-dream-group.github.io/publication/explainable-audio-classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explainable Bengali Multiclass News Classification</title>
-      <link>https://deep-dream-group.github.io/publication/explainable-text-classification/</link>
-      <pubDate>Mon, 10 Jul 2023 11:52:17 +0200</pubDate>
-      <guid>https://deep-dream-group.github.io/publication/explainable-text-classification/</guid>
       <description></description>
     </item>
     

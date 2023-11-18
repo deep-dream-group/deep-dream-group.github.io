@@ -5,12 +5,20 @@
     <link>https://deep-dream-group.github.io/author/mohammad-nahid-hossain/</link>
       <atom:link href="https://deep-dream-group.github.io/author/mohammad-nahid-hossain/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Nahid Hossain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Nov 2023 17:34:24 +0100</lastBuildDate>
     <image>
       <url>https://deep-dream-group.github.io/author/mohammad-nahid-hossain/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mohammad Nahid Hossain</title>
       <link>https://deep-dream-group.github.io/author/mohammad-nahid-hossain/</link>
     </image>
+    
+    <item>
+      <title>Explainable Bengali News Classification</title>
+      <link>https://deep-dream-group.github.io/publication/explainable-bengali-news/</link>
+      <pubDate>Tue, 14 Nov 2023 17:34:24 +0100</pubDate>
+      <guid>https://deep-dream-group.github.io/publication/explainable-bengali-news/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

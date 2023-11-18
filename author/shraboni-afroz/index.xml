@@ -5,12 +5,20 @@
     <link>https://deep-dream-group.github.io/author/shraboni-afroz/</link>
       <atom:link href="https://deep-dream-group.github.io/author/shraboni-afroz/index.xml" rel="self" type="application/rss+xml" />
     <description>Shraboni Afroz</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Nov 2023 17:34:24 +0100</lastBuildDate>
     <image>
       <url>https://deep-dream-group.github.io/author/shraboni-afroz/avatar_huad2304945a124d4fabc022eec3e20771_16463_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Shraboni Afroz</title>
       <link>https://deep-dream-group.github.io/author/shraboni-afroz/</link>
     </image>
+    
+    <item>
+      <title>Explainable Bengali News Classification</title>
+      <link>https://deep-dream-group.github.io/publication/explainable-bengali-news/</link>
+      <pubDate>Tue, 14 Nov 2023 17:34:24 +0100</pubDate>
+      <guid>https://deep-dream-group.github.io/publication/explainable-bengali-news/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
